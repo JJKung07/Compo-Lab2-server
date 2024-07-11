@@ -32,6 +32,17 @@
       "time": "11:00",
       "petsAllowed": false,
       "organizer": "Carey Wales"
+    },
+    {
+      "id": 1234567,
+      "category": "Music Concert",
+      "title": "Summer Music Fest",
+      "description": "Join us for an unforgettable evening of live music featuring popular bands and artists from around the country. Food and drinks will be available.",
+      "location": "Central Park, New York City",
+      "date": "April 15, 2022",
+      "time": "11:00 PM",
+      "petsAllowed": true,
+      "organizer": "MusicFest Events LLC"
     }
   ]
 }
